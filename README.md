@@ -7,3 +7,5 @@ ZEdBrowser 2.0 - [ZEdBrowser 2.0 Download](https://www.mediafire.com/file/94qd73
 ZEdBrowser 1.0 [ZEdBrowser 1.0 Download](https://www.mediafire.com/file/k24k8zlxq264uby/ZEdBrowser+1.0.zip/file)
 
 ## Beta Version
+
+ZEdBrowser 0.2 BETA - [ZEDBrowser 0.2 Download](https://github.com/Zqass/ZEdBrowser/raw/refs/heads/main/ZEdBrowser%200.2%20BETA.zip)
