@@ -11,3 +11,6 @@ ZEdBrowser 1.0 [ZEdBrowser 1.0 Download](https://download1527.mediafire.com/z3bm
 ZEdBrowser 0.2 BETA - [ZEDBrowser 0.2 Download](https://github.com/Zqass/ZEdBrowser/raw/refs/heads/main/ZEdBrowser%200.2%20BETA.zip)
 
 ZEdBrowser 0.1 BETA - [ZEdBrowser 0.1 Download](https://download1507.mediafire.com/h5j0y2r088bg779yHpmGeAjusUSd3vE4WQsO0TBSp14_L3nmjpPtzzyjLBSHCBQKUur2Vjuw9Bp3UjQFEmn6wV6YYnPdDPEt6gB8-eDNDv4aCj8NyZEhaOxpl3Qsf3M2JddekcbvG5UUOIHj4a3pRpgDGMTPqHBjg4dEC6mxJBPw9aU/c6ab5evlxmcrh8u/ZEdBrowser+0.1+BETA.zip)
+
+
+![zqass](https://i.yapx.ru/cJM6n.png)
